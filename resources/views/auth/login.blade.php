@@ -72,8 +72,9 @@
     </div>
 </div>
         </div>
-        <div class="col-6" style= "background-color: rgb(45,4,5); height:60vh" >
-        
+        <div class="col-6" style= "background-color: rgb(45,4,5); height:80vh" >
+        <img src="{{asset('doctor.png')}}" alt="icon" height="350px" width="100px">
+        <h5>MEET YOUR DOCTOR</h5>
         </div>
     </div>
 </div>
